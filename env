@@ -1,10 +1,10 @@
 APP_NAME=PTKontragtorIndonesiaTbk
 APP_ENV=local
-APP_KEY=base64:7aEUu3K1xoUmDEPLVdx+fYPa8nf5ZhZxGDi6xwXITTo=
+APP_KEY=
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=
 # APP_DEBUG=false
-# APP_URL=https://demo-ptkontragtor.arifsiddikm.biz.id/
+# APP_URL=
 
 APP_LOCALE=en
 APP_FALLBACK_LOCALE=en
