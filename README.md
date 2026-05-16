@@ -44,7 +44,7 @@ cd ptkontragtor
 composer install
 
 # 3. Copy dan konfigurasi .env
-cp .env.example .env
+cp file env to .env and setting your password
 php artisan key:generate
 
 # 4. Setup database (SQLite default)
