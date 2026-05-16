@@ -1,8 +1,8 @@
 APP_NAME=PTKontragtorIndonesiaTbk
 APP_ENV=local
-APP_KEY=
+APP_KEY=xxx
 APP_DEBUG=true
-APP_URL=
+APP_URL=xxx
 # APP_DEBUG=false
 # APP_URL= 
 
@@ -28,9 +28,6 @@ DB_PORT=3306
 DB_DATABASE=ptkontragtor
 DB_USERNAME=root
 DB_PASSWORD=
-# DB_DATABASE=xxxx
-# DB_USERNAME=xxxx
-# DB_PASSWORD=xxxx
 
 SESSION_DRIVER=database
 SESSION_LIFETIME=120
