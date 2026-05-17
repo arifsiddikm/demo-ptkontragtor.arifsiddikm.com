@@ -1,8 +1,8 @@
 APP_NAME=PTKontragtorIndonesiaTbk
 APP_ENV=local
-APP_KEY=xxx
+APP_KEY=
 APP_DEBUG=true
-APP_URL=xxx
+APP_URL=
 # APP_DEBUG=false
 # APP_URL= 
 
@@ -53,7 +53,7 @@ MAIL_MAILER=smtp
 MAIL_HOST=smtp.hostinger.com
 MAIL_PORT=465
 MAIL_USERNAME=noreply@arifsiddikm.com
-MAIL_PASSWORD=xxxx
+MAIL_PASSWORD=
 MAIL_ENCRYPTION=ssl
 MAIL_FROM_ADDRESS=noreply@arifsiddikm.com
 MAIL_FROM_NAME="PT Kontragtor Indonesia Tbk."
